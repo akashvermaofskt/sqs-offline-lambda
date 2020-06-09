@@ -1,4 +1,4 @@
-service: sqs-lambda-tutorial
+service: sqs-offline-lambda
 
 plugins:
   - serverless-offline-sqs

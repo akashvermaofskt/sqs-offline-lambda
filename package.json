@@ -1,5 +1,5 @@
 {
-  "name": "sqs-lambda-tutorial",
+  "name": "sqs-offline-lambda",
   "version": "1.0.0",
   "description": "An example that shows how to run a lambda function that consumes from a local SQS queue.",
   "dependencies": {

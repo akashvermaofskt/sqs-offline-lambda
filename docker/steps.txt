@@ -1,0 +1,5 @@
+Step 1:
+docker-compose -f docker-compose.yml up -d
+
+Step 2:
+sls offline start 
